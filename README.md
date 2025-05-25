@@ -85,4 +85,5 @@ Official Repository: [https://github.com/Pipboy-approved/QR](https://github.com/
 
 ## Support and Documentation
 
-For technical support, feature requests, or bug reports, please utilize our GitHub issue tracking system. 
+For technical support, feature requests, or bug reports, contact jyrgo@jyrgo.com / jyrgo.pipboy.ee or | +372 55 655 811
+
